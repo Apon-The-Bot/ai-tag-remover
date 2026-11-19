@@ -1,0 +1,6 @@
+{
+  "name": "Natural Photo Lab",
+  "description": "High-precision photographic enhancement and color grading studio that preserves natural skin texture, optical fidelity, and authentic subject character.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Natural Photo Lab",
+  "short_name": "Photo Lab",
+  "description": "High-precision photographic enhancement and color grading studio that preserves natural skin texture, optical fidelity, and authentic subject character.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F8FA",
+  "theme_color": "#F59E0B",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
